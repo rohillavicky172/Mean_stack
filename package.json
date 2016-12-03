@@ -1,0 +1,16 @@
+{
+  "name": "vicky_mean_stack",
+  "version": "1.0.0",
+  "description": "Simple Examples of nodejs",
+  "main": "Variables.js",
+  "dependencies": {
+    "typings": "^2.0.0",
+    "angular": "^1.5.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
